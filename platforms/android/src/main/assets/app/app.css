@@ -1,0 +1,29 @@
+@import "nativescript-theme-core/css/core.light.css";
+
+/* Your CSS goes here */
+
+.button {
+	width: 50pt;
+	height: 50pt;
+	border-radius: 100pt;
+}
+
+.general {
+	background-color: #d3f3ff;
+}
+
+.system {
+	background-color: #a5e7ff;
+}
+
+#text_field
+{
+	background-color: #edfff3;
+	height: 70pt;
+	font-size: 30pt;
+	line-height: 70pt;
+}
+
+#result {
+	background-color: #89f442;
+}

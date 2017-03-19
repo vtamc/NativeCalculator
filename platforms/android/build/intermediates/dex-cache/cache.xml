@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.3.0_a9cc0df06cafa38a439287d4b18a7f6beccc2a90.jar" />
+    </item>
+    <item
+        jar="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.3.0_d299a5c40b77d6552a16cfe5a6f86f4eab0c74bb.jar" />
+    </item>
+    <item
+        jar="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.0_53a644f6d488d2d7ab8e439d665ba23cbd82205d.jar" />
+    </item>
+    <item
+        jar="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.3.0_7db9988750e39316021bda77218dabf95b8b85cf.jar" />
+    </item>
+    <item
+        jar="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.0_ff44a7db9f67e47c5441c47119cd2e2ddbc27489.jar" />
+    </item>
+    <item
+        jar="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.3.0_bbef232f4b75e2d2ac55b769b9e58c54e29323d0.jar" />
+    </item>
+    <item
+        jar="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.0_bf12a11b28301f907e4c8d0faf79ff46b2ae9088.jar" />
+    </item>
+    <item
+        jar="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.3.0_6379f39a9ebca331c7c3ab0d0132dd76328aaf2d.jar" />
+    </item>
+    <item
+        jar="/opt/androidsdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.3.0_9779f3214676215143f98fef297017677714cdc6.jar" />
+    </item>
+    <item
+        jar="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.3.0_6d671f9a628fa6cf50991800bacc223bdea0d0ea.jar" />
+    </item>
+    <item
+        jar="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/Hello World/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_308c6506db0c68720b61a1d9d0ec3c7e2c97eacc.jar" />
+    </item>
+    <item
+        jar="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.0_75f1de29ab03e2d6d012d66cd0767cf97cd897fa.jar" />
+    </item>
+    <item
+        jar="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/Hello World/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/Hello World-runtime-unspecified_e556b7cb98c5232c973dc5b06d439b6b376ff2a1.jar" />
+    </item>
+    <item
+        jar="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.3.0_10a16d64dd31997264c5b69be2d8b9e5bf647588.jar" />
+    </item>
+    <item
+        jar="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_35d36d573cd8edc0b05c014f9d549a62e69e4825.jar" />
+    </item>
+    <item
+        jar="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.3.0_4c92622ba61963e5bf062bfd90a0dcdcd4d72e96.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,2 @@
+/home/vtamc/nativeprojects/HelloWorld/platforms/android/src/main/assets/app/controller.js
+/home/vtamc/nativeprojects/HelloWorld/platforms/android/src/main/assets/app/main-page.js

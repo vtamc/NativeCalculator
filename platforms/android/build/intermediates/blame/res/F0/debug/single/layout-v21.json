@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/res/merged/F0/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/res/merged/F0/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/res/merged/F0/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/res/merged/F0/debug/layout-v21/notification_action.xml",
+        "source": "/home/vtamc/nativeprojects/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/layout-v21/notification_action.xml"
+    }
+]

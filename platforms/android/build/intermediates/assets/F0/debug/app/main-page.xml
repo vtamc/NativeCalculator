@@ -1,0 +1,28 @@
+<Page loaded="pageLoaded">
+	<ActionBar title="Simple calculator" class="action-bar"></ActionBar>
+	<!-- Your UI components go here -->
+	<GridLayout columns="*, *, *, *" rows="*, *, *, *, *" >
+
+		<TextField text="" id="text_field" colspan="4" />
+
+		<Button text="7" class="button general" row="1" col="0"/>
+		<Button text="8" class="button general" row="1" col="1" />
+		<Button text="9" class="button general" row="1" col="2" />
+		<Button text="/" class="button system" row="1" action="div" col="3" />
+
+		<Button text="4" class="button general" row="2" col="0" />
+		<Button text="5" class="button general" row="2" col="1" />
+		<Button text="6" class="button general" row="2" col="2" />
+		<Button text="*" class="button system" row="2" action="mul" col="3" />
+
+		<Button text="1" class="button general" row="3" col="0" />
+		<Button text="2" class="button general" row="3" col="1" />
+		<Button text="3" class="button general" row="3" col="2" />
+		<Button text="-" class="button system" row="3" action="sub" col="3" />
+
+		<Button text="0" class="button general" row="4" col="0" />
+		<Button text="," class="button general" row="4" col="1" />
+		<Button text="+" class="button system" row="4" action="add" col="2" />
+		<Button text="=" class="button" id="result" action="res" row="4" col="3" />
+	</GridLayout>
+</Page>
